@@ -93,7 +93,7 @@
 ## 10. Контакты
 - **Канал с новостями**: [@LuniDev](https://t.me/JokyHost)
 - **Поддержка**: [@theLunatik](https://t.me/theLunatikBot)
-- **Ссылка на актуальные Условия**: [telegra.ph/Usloviya-ispolzovaniya-JokyHost-04-21](https://telegra.ph/Usloviya-ispolzovaniya-JokyHost-04-21)
+- **Ссылка на актуальные Условия**: [https://github.com/theLuni/JokyHost/blob/main/README.md](https://github.com/theLuni/JokyHost/blob/main/README.md)
 
 ## 11. Принятие условий
 Нажимая кнопку **«Принимаю условия»** в интерфейсе Сервиса, Пользователь подтверждает, что:
